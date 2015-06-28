@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>red.png</file>
+        <file>blue.png</file>
+        <file>green.png</file>
+        <file>purple.png</file>
+        <file>orange.png</file>
+        <file>borad.png</file>
+        <file>bluelight.png</file>
+        <file>greenlight.png</file>
+        <file>orangelight.png</file>
+        <file>purplelight.png</file>
+        <file>redlight.png</file>
+        <file>blueblock.png</file>
+        <file>blueblocklight.png</file>
+        <file>bluecol.png</file>
+        <file>bluecollight.png</file>
+        <file>bluerow.png</file>
+        <file>bluerowlight.png</file>
+        <file>greenblock.png</file>
+        <file>greenblocklight.png</file>
+        <file>greencol.png</file>
+        <file>greencollight.png</file>
+        <file>greenrow.png</file>
+        <file>greenrowlight.png</file>
+        <file>orangeblock.png</file>
+        <file>orangeblocklight.png</file>
+        <file>orangecol.png</file>
+        <file>orangecollight.png</file>
+        <file>orangerow.png</file>
+        <file>orangerowlight.png</file>
+        <file>purpleblock.png</file>
+        <file>purpleblocklight.png</file>
+        <file>purplecol.png</file>
+        <file>purplerow.png</file>
+        <file>purplecollight.png</file>
+        <file>purplerowlight.png</file>
+        <file>redblock.png</file>
+        <file>redblocklight.png</file>
+        <file>redcol.png</file>
+        <file>redcollight.png</file>
+        <file>redrow.png</file>
+        <file>redrowlight.png</file>
+        <file>rainbowblock.png</file>
+        <file>rainbowblocklight.png</file>
+    </qresource>
+</RCC>

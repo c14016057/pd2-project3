@@ -1,0 +1,14 @@
+INPUT(
+./release\main.o
+./release\gamewindow.o
+./release\square.o
+./release\rowsquare.o
+./release\colsquare.o
+./release\blocksquare.o
+./release\rainbowsquare.o
+./release\resultwindow.o
+./release\qrc_resource.o
+./release\moc_gamewindow.o
+./release\moc_square.o
+./release\moc_resultwindow.o
+);
